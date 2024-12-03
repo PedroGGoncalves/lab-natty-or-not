@@ -14,62 +14,58 @@ Para a realização desse projeto, optei por criar uma avatar e sua voz por meio
 
 ## 🤖 Tecnologias Utilizadas
 
-Nesse projeto, necessitei o uso das seguintes ferramentas:
+Neste projeto, utilizei as seguintes ferramentas:
 
 * **ChatGPT**
-	Utilizei essa ferramentas, pedindo a correção de uma frase elaborada por mim, para que o Escanor falasse ela em seu vídeo.
+	Utilizei o ChatGPT para corrigir uma frase que escrevi, adaptando-a para que o Escanor a falasse em seu vídeo.
 
 * **ElevenLabs**
-	Usei essa ferramanta, para gerar o aúdio com uma narração próxima à que o Escanor teria.
+	Usei o ElevenLabs para gerar o áudio com uma narração que se assemelha à voz do Escanor.
 
 * **D-ID**
-	Por mim, gerei o avatar e o vídeo do Escanor por meio dessa ferramantas.
+	Através dessa ferramenta, criei o avatar e o vídeo do Escanor.
 
-Além das IA's usadas, foi necessário outros sites para o desenvolvimento disso:
+Além das IA's, também foram necessários outros sites para o desenvolvimento:
 
 * **Tiktok**
-	Precisei utilizar a imagem de um cosplay para realizar o processo, pois a princípio a ideia era usar um desenho 2d, mas como a ferramenta não estava aceitando a imagem, optei por seguir esse caminho.
-	O link da imagem orginal segue a seguir: 
-https://www.tiktok.com/@mishima9505/video/7413443012283387141
+	Para realizar o processo, utilizei a imagem de um cosplay, pois inicialmente planejava usar um desenho 2D, mas a ferramenta não aceitou a imagem. O link da imagem original é: https://www.tiktok.com/@mishima9505/video/7413443012283387141
 
 * **OnlineConvert.com**
-  	Usei esse site para, converter o aúdio mp3 para mp4 e poder adicionar ele nesse README.
+  	Usei este site para converter o áudio de MP3 para MP4, permitindo que o áudio fosse adicionado ao README.
 
 ## 🧐 Processo de Criação
 
-Inicialmente, imaginei o uso de uma imagem do Escanor na qual ele iria reagir a um vídeo dele, porém ao pensar um pouco mais tive a ideia de fazer algo diferente, aproveitando da sua personalidade e acabando o vídeo antes de que ele reagisse de fato.
+Inicialmente, imaginei usar uma imagem do Escanor reagindo a um vídeo dele mesmo, mas, ao refletir mais sobre a ideia, decidi fazer algo diferente, aproveitando a sua personalidade e encerrando o vídeo antes que ele reagisse de fato.
 
-Assim, pensei em um roteiro que ele iria seguir, com ele pronto, usei o ChatGPT para melhorar ele e fazer as correções necessárias.
+Com o conceito definido, escrevi o roteiro e utilizei o ChatGPT para aprimorar e corrigir o texto. Com o script pronto, busquei a imagem original do Escanor no anime. Depois, fui ao site ElevenLabs para gerar o áudio. Inicialmente, não gostei da voz gerada e decidi criar uma nova, que ficou mais próxima do que eu queria.
 
-Com o texto refinado, seguir para a busca da imagem original dele no anime. Após isso fui para o site ElevenLabs e pedi para gerar o aúdio, a príncipio nçao gostei da voz e opteri por fazer outra, a qual ficou mais proxima do que queria.
+Com o áudio pronto, baixei-o e fui para o D-ID para gerar o avatar. Busquei imagens, mas o site não reconhecia nenhuma, então optei por modelos mais realistas e encontrei uma imagem no TikTok que se aproximava da ideia que tinha em mente.
 
-Com o aúdio pronto, baixei ele e fui para o D-ID, onde iria gerar o avatar, fui atrás de uma imagens, porém o site não aceitava nenhuma, pois não identificava o rosto, assim optei por ir atras de modelos mais realisticos, assim acabei achando no TikTok um mais proximo do que tinha em mente.
+Após isso, criei o avatar no D-ID e, em seguida, gerei o vídeo. No começo, usei o áudio do próprio site, mas achei que o sotaque britânico não combinava bem, então voltei ao áudio do ElevenLabs e gerei o vídeo final.
 
-Com isso, voltei para o site e criei o avatar. Com ele pronto, partir para o vídeo onde usei esse modelo criado e a priori eu usei o audio do proprio site, limitado com poucas palavas. Usei a linguagem inglesa com sotaque britacnio, pois achei que combinaria, no final não ficou tao bacana como imaginei. Assim, voltei para a ideia original e usei o auio do ElevenLabs, com gerei o video.
-
-Após o fim de todos esse processo, gostei do resultao final, apesar de ver falhas no avatar (por conta da orientacao do rosto), mas no geral achei que cehgou proximo da minha ideia e o avatar conseguir passsar o sentimento e rea~çoes que o escanor teria nesse curto video.
+Embora tenha percebido algumas falhas no avatar, principalmente na orientação do rosto, fiquei satisfeito com o resultado final. O avatar conseguiu transmitir as emoções e reações do Escanor de forma convincente, aproximando-se da minha ideia original.
 
 ## 🚀 Resultados
-Primeiro, gostaria de mandar o texto melhorado pelo ChatGPT
+Primeiro, gostaria de compartilhar o texto aprimorado pelo ChatGPT:
 
 *Eu, Escanor, venho aqui reagir a mim mesmo, Escanor.
 Eu, o pecado do Orgulho do Leão, resolvi orgulhosamente ouvir a música sobre mim feita por M4rkim. Mas, ao refletir, percebi que, na verdade, já reagi a isso apenas pensando em reagir à música.
 Então, por hoje é isso, galera. Abraços do Escanooooor!*
 
-Agora, segue o aúdio do ElenLabs:
+Agora, segue o áudio gerado pelo ElevenLabs:
 
 https://github.com/user-attachments/assets/836b28c4-bbb5-4954-bea9-323cb9a55e23
 
 
-A seguir, segue o primeiro vídeo feito no D-ID:
+A seguir, está o primeiro vídeo criado no D-ID
 
 https://github.com/user-attachments/assets/c4096e25-405f-47aa-bc6a-6475f3a167ec
 
-E por fim, o vídeo final:
+Por fim, segue o vídeo final:
 
 https://github.com/user-attachments/assets/764b8559-4b90-4e35-9d40-a259a5a15b8a
 
 # 💭 Reflexão (Opcional)
 
-Aqui venho fazer minhas considerações finais, gostei de fazer esse projeto, foi bem divertido e intrigante. O resultzao final me agradou mesmo, mesmo que eu não tenha alcançado a perfeição nele. Foi bem desafiador e demandou mais tempo do que imaginava, mas vi grande potencial enssas ferramentas e sei que conseguiria fazer um trabalho bem mais eficiente com mais tempo e prática.
+Chegando às minhas considerações finais, gostei bastante de realizar este projeto. Foi uma experiência divertida e desafiadora. O resultado final me agradou, mesmo sabendo que não atingi a perfeição. O processo foi mais desafiador e demorou mais tempo do que eu imaginava, mas percebi o grande potencial dessas ferramentas. Com mais tempo e prática, sei que poderia produzir um trabalho ainda mais eficiente.
 
