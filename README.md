@@ -65,7 +65,11 @@ Por fim, segue o vídeo final:
 
 https://github.com/user-attachments/assets/764b8559-4b90-4e35-9d40-a259a5a15b8a
 
+Caso, tenha interesse os arquivos gerados foram adicionados na pasta **files** aqui nesse repositório.
+
 # 💭 Reflexão (Opcional)
 
-Chegando às minhas considerações finais, gostei bastante de realizar este projeto. Foi uma experiência divertida e desafiadora. O resultado final me agradou, mesmo sabendo que não atingi a perfeição. O processo foi mais desafiador e demorou mais tempo do que eu imaginava, mas percebi o grande potencial dessas ferramentas. Com mais tempo e prática, sei que poderia produzir um trabalho ainda mais eficiente.
+Chegando às minhas considerações finais, gostei bastante de realizar este projeto. Foi uma experiência divertida e desafiadora. O resultado final me agradou, mesmo sabendo que não atingi a perfeição. 
+
+O processo foi mais desafiador e demorou mais tempo do que eu imaginava, mas percebi o grande potencial dessas ferramentas. Com mais tempo e prática, sei que poderia produzir um trabalho ainda mais eficiente.
 
