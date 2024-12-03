@@ -32,6 +32,9 @@ Além das IA's usadas, foi necessário outros sites para o desenvolvimento disso
 	O link da imagem orginal segue a seguir: 
 https://www.tiktok.com/@mishima9505/video/7413443012283387141
 
+* **OnlineConvert.com**
+  	Usei esse site para, converter o aúdio mp3 para mp4 e poder adicionar ele nesse README.
+
 ## 🧐 Processo de Criação
 
 Inicialmente, imaginei o uso de uma imagem do Escanor na qual ele iria reagir a um vídeo dele, porém ao pensar um pouco mais tive a ideia de fazer algo diferente, aproveitando da sua personalidade e acabando o vídeo antes de que ele reagisse de fato.
@@ -53,5 +56,20 @@ Primeiro, gostaria de mandar o texto melhorado pelo ChatGPT
 Eu, o pecado do Orgulho do Leão, resolvi orgulhosamente ouvir a música sobre mim feita por M4rkim. Mas, ao refletir, percebi que, na verdade, já reagi a isso apenas pensando em reagir à música.
 Então, por hoje é isso, galera. Abraços do Escanooooor!*
 
-Agora, segue o aúdio do ElenLabs
+Agora, segue o aúdio do ElenLabs:
+
+https://github.com/user-attachments/assets/836b28c4-bbb5-4954-bea9-323cb9a55e23
+
+
+A seguir, segue o primeiro vídeo feito no D-ID:
+
+https://github.com/user-attachments/assets/c4096e25-405f-47aa-bc6a-6475f3a167ec
+
+E por fim, o vídeo final:
+
+https://github.com/user-attachments/assets/764b8559-4b90-4e35-9d40-a259a5a15b8a
+
+# 💭 Reflexão (Opcional)
+
+Aqui venho fazer minhas considerações finais, gostei de fazer esse projeto, foi bem divertido e intrigante. O resultzao final me agradou mesmo, mesmo que eu não tenha alcançado a perfeição nele. Foi bem desafiador e demandou mais tempo do que imaginava, mas vi grande potencial enssas ferramentas e sei que conseguiria fazer um trabalho bem mais eficiente com mais tempo e prática.
 
