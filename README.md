@@ -16,21 +16,21 @@ Para a realização desse projeto, optei por criar uma avatar e sua voz por meio
 
 Neste projeto, utilizei as seguintes ferramentas:
 
-* **ChatGPT**
+* **ChatGPT:**
 	Utilizei o ChatGPT para corrigir uma frase que escrevi, adaptando-a para que o Escanor a falasse em seu vídeo.
 
-* **ElevenLabs**
+* **ElevenLabs:**
 	Usei o ElevenLabs para gerar o áudio com uma narração que se assemelha à voz do Escanor.
 
-* **D-ID**
+* **D-ID:**
 	Através dessa ferramenta, criei o avatar e o vídeo do Escanor.
 
 Além das IA's, também foram necessários outros sites para o desenvolvimento:
 
-* **Tiktok**
+* **Tiktok:**
 	Para realizar o processo, utilizei a imagem de um cosplay, pois inicialmente planejava usar um desenho 2D, mas a ferramenta não aceitou a imagem. O link da imagem original é: https://www.tiktok.com/@mishima9505/video/7413443012283387141
 
-* **OnlineConvert.com**
+* **OnlineConvert.com:**
   	Usei este site para converter o áudio de MP3 para MP4, permitindo que o áudio fosse adicionado ao README.
 
 ## 🧐 Processo de Criação
